@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "name": "slate-packages",
+  "name": "wte-slate-packages-test",
   "workspaces": [
     "packages/*"
   ],
